@@ -3,17 +3,16 @@
 - company: Amundi Asset Management 
   position: Symfony Developer
   duration: Mai, 2017 &mdash; Présent
-  summary: je fais partie de l'équipe extranet, avec une architecture micro-service contenant plus de 8 applications Symfony 3 et un queuing avec RabbitMQ et ElasticSearch/Solr pour la recherche, notre mission est de fournir toutes les informations sur les fonds d'amundi ainsi la gestion des documents.
+  summary: "je fais partie de l'équipe extranet, avec une architecture micro-service contenant plus de 8 applications Symfony 3 et un queuing avec RabbitMQ et ElasticSearch/Solr pour la recherche, notre mission est de fournir toutes les informations sur les fonds d'amundi ainsi la gestion des documents."
 
 # Bouygues Telecom
 - company: Capgemini ( Bouygues Télécom )
-  position: Software Engineer | Symfony
-  duration:  Juillet, 2016 &mdash; Mai, 2017
+  position: Software Engineer - Symfony
+  duration: Juillet, 2016 &mdash; Mai, 2017
   summary: Projet Portail B2B de Bouygues Télécom : Développement et refonte des Modules dans le portail B2B (gestion des parcs clients, gestion des lignes, gestion des utilisateurs (clients).
-
 
 # Api & You
 - company: API & You ( Euphor )
   position: Développeur PHP 5 –Symfony 2
-  duration:   Sept, 2015  &mdash; Juillet, 2016
+  duration: Sept, 2015  &mdash; Juillet, 2016
   summary: Projet Jadro3 - Développement d’un CMS adapté aux métiers d’hôtellerie et de restauration avec SymfonyCMF.
